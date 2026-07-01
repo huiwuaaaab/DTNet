@@ -6,7 +6,7 @@ Due to the large data volume of original remote sensing images, we provide a dow
 - Download Link: https://drive.google.com/drive/folders/1cz49KUlxsyIqT74J7NUgE-bRyGmD4pM_
 
 ### Dataset Description
-1. **NWPU VHR-10 Dataset**
+1. **NWPU VHR-10.v2 Dataset**
     - Official Source: Publicly released open remote sensing target detection benchmark
     - Main contents: High-resolution aerial remote sensing images with 10 common object categories
 2. **DIOR Dataset**
