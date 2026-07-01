@@ -2,9 +2,8 @@
 All datasets used in this work are obtained directly from their official open-source repositories, including NWPU VHR-10 and DIOR remote sensing benchmarks.
 
 ### Data Download Channel
-Due to the large data volume of original remote sensing images, we provide a Baidu Netdisk download link for researchers' convenience:
-- Download Link: [Fill your Baidu Netdisk URL here]
-- Extraction Code: [Fill your extraction code here]
+Due to the large data volume of original remote sensing images, we provide a download link for researchers' convenience:
+- Download Link: https://drive.google.com/drive/folders/1cz49KUlxsyIqT74J7NUgE-bRyGmD4pM_
 
 ### Dataset Description
 1. **NWPU VHR-10 Dataset**
