@@ -3,7 +3,7 @@ The datasets provided in this repository form only a subset of the complete proj
 
 ### ⬇️ Data Download Channel
 Original remote sensing imagery has a large file size. For the convenience of academic reproduction, the dataset subset is available via the following link:
-- Download Link: https://drive.google.com/drive/folders/1cz49KUlxsyIqT74J7NUgE-bRyGmD4pM_
+- Download Link: [https://drive.google.com/drive/folders/1cz49KUlxsyIqT74J7NUgE-bRyGmD4pM_]
 
 ### 📋 Dataset Introduction
 1. **NWPU VHR-10.v2 Dataset**
