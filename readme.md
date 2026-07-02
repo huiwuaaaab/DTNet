@@ -1,19 +1,20 @@
-## Dataset Information
-All datasets used in this work are obtained directly from their official open-source repositories, including NWPU VHR-10 and DIOR remote sensing benchmarks.
+### 📂 Dataset Information
+The datasets provided in this repository form only a subset of the complete project resources, which also include training source code and pre-trained model weights to be released upon acceptance of this manuscript. All datasets utilised in this work are sourced directly from their official open-access repositories, namely the NWPU VHR-10 and DIOR remote sensing detection benchmarks.
 
-### Data Download Channel
-Due to the large data volume of original remote sensing images, we provide a download link for researchers' convenience:
+### ⬇️ Data Download Channel
+Original remote sensing imagery has a large file size. For the convenience of academic reproduction, the dataset subset is available via the following link:
 - Download Link: https://drive.google.com/drive/folders/1cz49KUlxsyIqT74J7NUgE-bRyGmD4pM_
 
-### Dataset Description
+### 📋 Dataset Introduction
 1. **NWPU VHR-10.v2 Dataset**
-    - Official Source: Publicly released open remote sensing target detection benchmark
-    - Main contents: High-resolution aerial remote sensing images with 10 common object categories
+    - Official Source: Public open benchmark for high-resolution aerial remote sensing object detection
+    - Main contents: High-resolution aerial images covering 10 typical land object categories
 2. **DIOR Dataset**
-    - Official Source: Public large-scale optical remote sensing detection dataset
-    - Main contents: Diverse scene remote sensing images covering 20 object categories
+    - Official Source: Large-scale public optical remote sensing detection dataset
+    - Main contents: Multi-scene remote sensing imagery containing 20 distinct object categories
 
-### Notes
-1. All raw image copyrights belong to the original dataset publishers; this shared file is only for academic research reproduction.
-2. If the link expires, you can acquire the complete raw dataset via the official repositories referenced in our paper.
-3. Confidential or proprietary information has been completely removed from all shared data.
+### ⚠️ Important Reminders
+1. Copyright of all raw imagery belongs to the original dataset developers. The shared files are solely permitted for non-commercial academic research and experimental reproduction.
+2. This repository only hosts processed dataset splits for quick validation. Full training code and pre-trained model weights will be fully open-sourced once the associated paper is accepted for publication.
+3. If the download link becomes unavailable, the full raw datasets can be obtained through the official project repositories cited in our manuscript.
+4. All confidential, sensitive and proprietary content has been fully eliminated from the shared data files.
