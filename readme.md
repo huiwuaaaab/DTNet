@@ -16,5 +16,4 @@ Original remote sensing imagery has a large file size. For the convenience of ac
 ### ⚠️ Important Reminders
 1. Copyright of all raw imagery belongs to the original dataset developers. The shared files are solely permitted for non-commercial academic research and experimental reproduction.
 2. This repository only hosts processed dataset splits for quick validation. Full training code and pre-trained model weights will be fully open-sourced once the associated paper is accepted for publication.
-3. If the download link becomes unavailable, the full raw datasets can be obtained through the official project repositories cited in our manuscript.
-4. All confidential, sensitive and proprietary content has been fully eliminated from the shared data files.
+3. All confidential, sensitive and proprietary content has been fully eliminated from the shared data files.
